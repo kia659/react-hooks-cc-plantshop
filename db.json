@@ -5,6 +5,7 @@
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
+      
     },
     {
       "id": 2,
@@ -41,6 +42,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "kia ",
+      "image": "https://images.unsplash.com/photo-1608231975456-2f2d9fb1b49b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=800&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcwOTE3NzE2Mg&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1900",
+      "price": 4,
+      "id": 8
     }
   ]
 }
